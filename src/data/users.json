@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1" ,
+    "name": "Joe ",
+    "email": "",
+    "telephone": "",
+    "age": "",
+    "country": "",
+    "status": "rejected"
+  },
+  {
+    "id": "2" ,
+    "name": "Phoebe",
+    "email": "",
+    "telephone": "",
+    "age": "",
+    "country": "",
+    "status": "verified"
+  },
+  {
+    "id": "3" ,
+    "name": "Caroline",
+    "email": "",
+    "telephone": "",
+    "age": "",
+    "country": "",
+    "status": "verified"
+  },
+  {
+    "id": "4" ,
+    "name": "Ricardo",
+    "email": "",
+    "telephone": "",
+    "age": "",
+    "country": "",
+    "status": "verified"
+  },
+  {
+    "id": "5" ,
+    "name": "Dorothy",
+    "email": "",
+    "telephone": "",
+    "age": "",
+    "country": "",
+    "status": "pending"
+  },
+  {
+    "id": "6" ,
+    "name": "Eleanor",
+    "email": "",
+    "telephone": "",
+    "age": "",
+    "country": "",
+    "status": "rejected"
+  },
+  {
+    "id": "7" ,
+    "name": "Nina",
+    "email": "",
+    "telephone": "",
+    "age": "",
+    "country": "",
+    "status": "verified"
+  },
+  {
+    "id": "8" ,
+    "name": "Caroline",
+    "email": "",
+    "telephone": "",
+    "age": "",
+    "country": "",
+    "status": "rejected"
+  }
+]
